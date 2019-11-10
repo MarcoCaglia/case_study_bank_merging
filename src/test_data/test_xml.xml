@@ -1,0 +1,37 @@
+<item>
+  <field name="date">2019-10-01 00:00:00</field>
+  <field name="type">remove</field>
+  <field name="amount">99</field>
+  <field name="to">182</field>
+  <field name="from">198</field>
+</item><item>
+  <field name="date">2019-10-02 00:00:00</field>
+  <field name="type">add</field>
+  <field name="amount">2000</field>
+  <field name="to">198</field>
+  <field name="from">188</field>
+</item><item>
+  <field name="date">2019-10-03 00:00:00</field>
+  <field name="type">remove</field>
+  <field name="amount">99</field>
+  <field name="to">182</field>
+  <field name="from">198</field>
+</item><item>
+  <field name="date">2019-10-04 00:00:00</field>
+  <field name="type">add</field>
+  <field name="amount">2000</field>
+  <field name="to">198</field>
+  <field name="from">188</field>
+</item><item>
+  <field name="date">2019-10-04 00:00:00</field>
+  <field name="type">remove</field>
+  <field name="amount">99</field>
+  <field name="to">182</field>
+  <field name="from">198</field>
+</item><item>
+  <field name="date">2019-10-05 00:00:00</field>
+  <field name="type">add</field>
+  <field name="amount">2000</field>
+  <field name="to">198</field>
+  <field name="from">188</field>
+</item>
