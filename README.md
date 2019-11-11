@@ -57,7 +57,7 @@ on the current form of the testing data, however, it is not confined to these co
 Lastly, the user can call the export method and specifiy the output format (csv, json or xml), the output name and
 the output path. To load the output into a SQL table, the user can use the export_to_csv method.
 
-Please note, that there are more parameters to be customized. For more details please refer to the dicstrings in the code.
+Please note, that there are more parameters to be customized. For more details please refer to the docstrings in the code.
 
 ## Next Steps
 
